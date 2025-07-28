@@ -104,7 +104,7 @@ const BookingForm = () => {
             <p className="text-xl text-gray-300 max-w-2xl mx-auto">
               Оставьте заявку, и мы свяжемся с вами в течение 30 минут для уточнения деталей
             </p>
-          </div>
+          </motion.div>
 
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 max-w-6xl mx-auto">
             {/* Form */}
