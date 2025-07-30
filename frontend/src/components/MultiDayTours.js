@@ -83,7 +83,7 @@ const MultiDayTours = () => {
   };
 
   return (
-    <section className="py-20 bg-gradient-to-br from-slate-800 to-slate-900">
+    <section id="multi-day-tours-section" className="py-20 bg-gradient-to-br from-slate-800 to-slate-900">
       <div className="container mx-auto px-6">
         <motion.div
           ref={ref}
